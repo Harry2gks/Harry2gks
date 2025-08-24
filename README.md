@@ -1,6 +1,6 @@
 # Hello,👋 nice having you here!
 - I am Harry a CS student in Hellenic Open University
-- :cookie: Currently learning ![React](https://skillicons.dev/icons?i=react)
+- :cookie: Currently learning <img src="https://skillicons.dev/icons?i=react" alt="React" width="20" style="position: relative; top: 1px;"/>
 - :monocle_face: Find me on [LinkedIn](https://www.linkedin.com/in/harry-katsaris-a6796a261/) or [DEV.to](https://dev.to/harry2gks)
 - I ❤️ building stuff for the web :man_technologist: and games :space_invader:
 - 🔍 Take a look at my repositories
