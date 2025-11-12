@@ -1,6 +1,7 @@
 ☕️ ➜ 💻 From roasting coffee beans to roasting bugs
 
 Hi, I’m Harry. My journey into tech began when I realized that debugging code is basically the same as roasting coffee:
+
 🔥 apply heat → hope for the best → adjust → repeat
 
 ---
