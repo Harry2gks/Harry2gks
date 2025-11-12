@@ -1,13 +1,60 @@
-# Hello,👋 nice having you here!
-- I am Harry a CS student in Hellenic Open University
-- :cookie: Currently learning <img src="https://skillicons.dev/icons?i=react" alt="React" width="20" style="position: relative; top: 1px;"/>
-- :monocle_face: Find me on [LinkedIn](https://www.linkedin.com/in/harry-katsaris-a6796a261/) or [DEV.to](https://dev.to/harry2gks)
-- I ❤️ building stuff for the web :man_technologist: and games :space_invader:
-- 🔍 Take a look at my repositories
+☕️ ➜ 💻 From roasting coffee beans to roasting bugs
 
-I started my programming Journey in late 2021 as a hobby, putting some time inbetween other activities. In 2023 I decided to follow my passion for techonology and joined the Computer Science undergraduate program of [Hellenic Open Univeristy](https://www.eap.gr/en/undergraduate/computer-science/). The learning curve is steep, but I enjoy every step of the way. 
+Hi, I’m Harry. My journey into tech began when I realized that debugging code is basically the same as roasting coffee:
+🔥 apply heat → hope for the best → adjust → repeat
 
-Technologies I had the pleasure to learn so far:
+---
 
-![My Skills](https://skillicons.dev/icons?i=c,python,javascript,html,css,react,git)
+### 🧠 My daily workflow  
+```js
+caffeine++;
+focus++;
+bugs--;
+```
+### 🧰 My Toolkit
 
+💛 JavaScript - because I like living dangerously
+
+🐍 Python - for when I want my code readable
+
+💀 C - for the days I miss pain
+
+🎨 HTML & CSS - 90% searching “how to center a div”
+
+🌀 Git & GitHub - commit early, regret often
+
+----
+
+ ### 🚀 Current Quests
+
+🧩 Learning React (and occasionally reinventing the wheel)
+
+🔁 Turning “just a small project” into a 3-week refactor
+
+🤖 Letting AI explain my own code back to me
+
+⚔️ Fighting merge conflicts like a true warrior
+
+---
+
+### 💡 What I Actually Love
+
+🧼 Clean UI & smooth UX
+
+🧠 Writing code future-me won’t hate
+
+🛠️ Building things that actually work
+
+🧩 Solving problems before they solve me
+
+---
+
+### ⚠️ Fun Facts (Mostly True)
+
+💬 I comment my code… sometimes
+
+💻 “It worked on my machine” is my mantra
+
+☕ I measure time in coffees, not hours
+
+🦆 Rubber duck debugging: 10/10 would recommend
