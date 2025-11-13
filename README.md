@@ -12,50 +12,29 @@ caffeine++;
 focus++;
 bugs--;
 ```
-### 🧰 My Toolkit
+### 🧰 My Toolkit 
+```
+> JavaScript --danger
+> Python --readable
+> C --pain
+> git commit -m "it finally works"
+```
 
-💛 JavaScript - because I like living dangerously
+ ### 🚀 Active Quests
+ 
+```
+npm install react
+code --open small_project
+# 3 weeks later: still refactoring...
+```
 
-🐍 Python - for when I want my code readable
 
-💀 C - for the days I miss pain
-
-🎨 HTML & CSS - 90% searching “how to center a div”
-
-🌀 Git & GitHub - commit early, regret often
-
-----
-
- ### 🚀 Current Quests
-
-🧩 Learning React (and occasionally reinventing the wheel)
-
-🔁 Turning “just a small project” into a 3-week refactor
-
-🤖 Letting AI explain my own code back to me
-
-⚔️ Fighting merge conflicts like a true warrior
-
----
-
-### 💡 What I Actually Love
-
-🧼 Clean UI & smooth UX
-
-🧠 Writing code future-me won’t hate
-
-🛠️ Building things that actually work
-
-🧩 Solving problems before they solve me
-
----
 
 ### ⚠️ Fun Facts (Mostly True)
-
-💬 I comment my code… sometimes
-
-💻 “It worked on my machine” is my mantra
-
 ☕ I measure time in coffees, not hours
 
-🦆 Rubber duck debugging: 10/10 would recommend
+```
+# “It worked on my machine”
+alias coffee = "sudo productivity++"
+git push --force && hope_for_the_best
+```
