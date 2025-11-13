@@ -23,9 +23,11 @@ bugs--;
  ### 🚀 Active Quests
  
 ```
-npm install react
-code --open small_project
-# 3 weeks later: still refactoring...
+$ npm install react
+$ git checkout -b "frontend_wizard"
+$ ai-assist --enable
+# Tried installing Node.js... now my laptop *is* a space heater ☀️
+
 ```
 
 
